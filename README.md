@@ -1,10 +1,12 @@
 ![banner](images/banner.png)
 
 
-# Hello! <img width="30" src="./images/waving-hand-joypixels.gif"> I'm Tarık
+<div align="center">
+  <h1>Hello! <img width="30" src="./images/waving-hand-joypixels.gif"> I'm Tarık</h1>
+  <p>A software developer with a passion for learning new technologies and creating exciting projects.<br>
+  Currently focused on .NET 8 and expanding my skills with innovative tools and technologies. 💻</p>
+</div>
 
-A software developer with a passion for learning new technologies and creating exciting projects.  
-Currently focused on .NET 8 and expanding my skills with innovative tools and technologies. 💻
 
 <details>
   <summary>More about me</summary>
@@ -23,7 +25,7 @@ Currently focused on .NET 8 and expanding my skills with innovative tools and te
 ## 🛠️ Skills
 
 ### **Programming Languages**
-- 🐍 Python
+- 🐍 Python, C
 - 🌐 JavaScript, HTML, CSS
 - 🎮 Unity (C#)
 
