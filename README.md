@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx5dmg1OGN2d3l4eG5xam52bXFha3lxM2szNmEwa2F0c25sbmN1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
-</div>
+![banner](images/banner.png)
 
 
-# Hello! 👋 I'm Tarık
+# Hello! <img width="30" src="./images/waving-hand-joypixels.gif"> I'm Tarık
 
 A software developer with a passion for learning new technologies and creating exciting projects.  
 Currently focused on .NET 8 and expanding my skills with innovative tools and technologies. 💻
@@ -35,6 +33,10 @@ Currently focused on .NET 8 and expanding my skills with innovative tools and te
 
 ### **Database Technologies**
 - MySQL, MongoDB
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx5dmg1OGN2d3l4eG5xam52bXFha3lxM2szNmEwa2F0c25sbmN1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
+</div>
 
 ---
 
