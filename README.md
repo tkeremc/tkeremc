@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1>Hello! <img width="30" src="./images/waving-hand-joypixels.gif"> I'm Tarık</h1>
+  <h1>Hi! <img width="30" src="./images/waving-hand-joypixels.gif"> I'm Tarık</h1>
   <p>A software developer with a passion for learning new technologies and creating exciting projects.<br>
   Currently focused on .NET 8 and expanding my skills with innovative tools and technologies. 💻</p>
 </div>
