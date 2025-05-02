@@ -11,7 +11,6 @@
 <details>
   <summary>More about me</summary>
 
-- 🔭 **Currently Working On:** [GangChat](https://github.com/tkeremc/gangchat) - A project to build a real-time communication platform.  
 - 🌱 **Currently Learning:** .NET 8 and diving deeper into backend development.  
 - 💼 **Experience:** Python, JavaScript, Unity, C, C++, HTML, CSS.  
 - 🎮 **Hobbies:** Game development and exploring innovations in the tech world.  
@@ -27,7 +26,7 @@
 ### **Programming Languages**
 - 🐍 Python, C
 - 🌐 JavaScript, HTML, CSS
-- 🎮 Unity (C#)
+- 🎮 C#
 
 ### **Frameworks and Tools**
 - .NET 8 (currently learning)    
