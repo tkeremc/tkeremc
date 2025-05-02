@@ -41,11 +41,3 @@
 
 ---
 
-## 📊 My Stats
-<!--
-![tkeremc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkeremc&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkeremc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
-<a href="https://github.com/tkeremc"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=tkeremc&theme=radical&title_color=ff3068?"></a>
-<a href="https://github.com/tkeremc"><img width="23%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkeremc&theme=tokyonight"></a>
-
