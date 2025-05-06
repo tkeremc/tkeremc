@@ -1,4 +1,6 @@
-![banner](images/banner.png)
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN20wbnMxaWc3N2RleTRncTh4dzc2NW05bGRld2d3Z3gwdjBrbHkwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZsFUzzaWM6o12ZJjw/giphy.gif" alt="Snake Animation GIF">
+</div> 
 
 
 <div align="center">
@@ -40,4 +42,3 @@
 </div>
 
 ---
-![Snake animation](https://github.com/tkeremc/tkeremc/blob/output/github-contribution-grid-snake.svg)
