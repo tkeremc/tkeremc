@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN20wbnMxaWc3N2RleTRncTh4dzc2NW05bGRld2d3Z3gwdjBrbHkwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZsFUzzaWM6o12ZJjw/giphy.gif" alt="Snake Animation GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZ4MDR1amlzYWhla3gycDV4a2V4OHNydzRqeXprZHIycjZxcjR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GhmvdoKizbEyc/giphy.gif" alt="Anime GIF">
 </div> 
 
 
@@ -8,6 +8,7 @@
   <p>A software developer with a passion for learning new technologies and creating exciting projects.<br>
   Currently focused on .NET 8 and expanding my skills with innovative tools and technologies. 💻</p>
 </div>
+
 
 
 <details>
