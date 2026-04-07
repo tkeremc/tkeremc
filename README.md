@@ -6,7 +6,7 @@
 <div align="center">
   <h1>Hi! <img width="30" src="./images/waving-hand-joypixels.gif"> I'm Tarık</h1>
   <p>A software developer with a passion for learning new technologies and creating exciting projects.<br>
-  Currently focused on .NET 8 and expanding my skills with innovative tools and technologies. 💻</p>
+  Currently focused on .NET 8, Angular and expanding my skills with innovative tools and technologies. 💻</p>
 </div>
 
 
@@ -32,8 +32,9 @@
 - 🎮 C#
 
 ### **Frameworks and Tools**
-- .NET 8 (currently learning)    
-- Unity Engine  
+- .NET 8
+- Angular (currently learning)
+- Unity Engine (skipped)
 
 ### **Database Technologies**
 - MySQL, MongoDB
