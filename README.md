@@ -15,7 +15,7 @@
   <summary>More about me</summary>
 
 - 🌱 **Currently Learning:** .NET 8 and diving deeper into backend development.  
-- 💼 **Experience:** Python, JavaScript, Unity, C, C++, HTML, CSS.  
+- 💼 **Experience:** Angular, .Net Core 8, Python, JavaScript, Unity, C, C++, HTML, CSS.  
 - 🎮 **Hobbies:** Game development and exploring innovations in the tech world.  
 - 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/tar%C4%B1k-kerem-%C3%A7ifciba%C5%9F%C4%B1-86398030b/) | [Email](mailto:tkeremc@outlook.com)
 
