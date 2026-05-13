@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZ4MDR1amlzYWhla3gycDV4a2V4OHNydzRqeXprZHIycjZxcjR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GhmvdoKizbEyc/giphy.gif" alt="Anime GIF">
-</div> 
-
-
-<div align="center">
   <h1>Hi! <img width="30" src="./images/waving-hand-joypixels.gif"> I'm Tarık</h1>
   <p>A software developer with a passion for learning new technologies and creating exciting projects.<br>
   Currently focused on .NET 8, Angular and expanding my skills with innovative tools and technologies. 💻</p>
